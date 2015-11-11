@@ -1,0 +1,12 @@
+Practical Computing Assignment 1
+Julie Chomrak 100555212
+
+1. 
+a. Prints “hello world” in the terminal.
+b. Prints “consents consented confers confered presents presented prefers prefered”. It does this by “foiling” the letters in the curly brackets. The results are put together in order of how they were presented in the brackets, and separate by a single space.
+c. Prints the current date and time in the terminal.
+d. Prints the currently signed in user in the terminal.
+e. Prints the calender for the year 2000.
+f. Prints the calender for the month September in the year 1752, however, it omits the days 3-13.
+g. Prints the license and start the unix calculator.
+h. Runs the entered data through the unix calculator and prints the results.
